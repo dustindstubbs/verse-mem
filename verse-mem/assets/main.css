@@ -1,0 +1,46 @@
+.bg-medium{
+    background:#9898aa;
+}
+
+.text-medium{
+    color:#9898aa;
+}
+
+a.text-medium:hover{
+    color:#9898aa;
+}
+
+.bg-primary-light{
+    background:#f8f9fd!important;
+}
+
+.bg-primary-pastel{
+    background:#e8ebff!important;
+}
+
+.bg-secondary-pastel{
+    background:#e1f1ff!important;
+}
+
+.bg-warning-pastel{
+    background:#fff1cf!important;
+}
+.bg-warning-light{
+    background:#fffaed!important;
+}
+
+.bg-danger-pastel{
+    background:#ffebeb!important;
+}
+
+.learn-hover:hover{
+    color: #3b54f5!important;
+}
+
+.practice-hover:hover{
+    color: #ff9601!important;
+}
+
+.lineups-hover:hover{
+    color: #ff4c4b!important;
+}
