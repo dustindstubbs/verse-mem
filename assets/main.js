@@ -9,7 +9,7 @@ function addVerse(setVerse, force, title) {
                 dataType: 'json',
                 contentType: "application/x-www-form-urlencoded; charset=UTF-8",
                 beforeSend: function(xhr) {
-                    xhr.setRequestHeader("Authorization", "Token a1112b727237c6c9e446712047194b05deda87c5")
+                    xhr.setRequestHeader("Authorization", "Token xxx")
                 },
                 success: function(data){
                     if (!data.passages[0]){
